@@ -1,5 +1,13 @@
 # 💫 About Me:
-🧑‍💻 I'm currently working on: ZEN-LIB Flutter Application and developing full-stack applications with React, Next.js, and TypeScript.<br><br>👯 I'm looking to collaborate on: Innovative AI/ML projects, Flutter Applications, and open-source web applications.<br><br>🤝 I'm looking for help with: Full Stack Web applications, UIUX Designs, and Flutter and React Native Applications<br><br>🌱 I'm currently learning: Deeper AI/ML concepts for my projects, Full Stack Web Applications, Flutter Projects, <br><br>💬 Ask me about: Full-stack development with ReactJS, Next.js ecosystem, building AI-powered applications from scratch, AIML Projects, Flutter Apps<br><br>⚡ Fun fact: Basically even I'm learning these technologies and wanted to improve more
+### Hey there, I'm Sai Shashank Vakkalanka 👋
+
+I'm a passionate developer focused on building intelligent and user-friendly applications.
+
+* 🚀 **Currently:** I'm developing the **ZEN-LIB Flutter App** and building full-stack projects with the **React/Next.js** ecosystem.
+* 🧠 **Learning:** Diving deeper into **AI/ML**, full-stack web architecture, and cross-platform development with **Flutter**.
+* 🤝 **Collaborating:** I'm excited to collaborate on projects involving **AI, open-source web dev, and mobile apps**. If you're building something cool, let's connect!
+
+**You can ask me about:** React, Next.js, AI/ML project ideas, and Flutter.
 
 
 ## 🌐 Socials:
