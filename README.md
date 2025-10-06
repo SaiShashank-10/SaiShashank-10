@@ -13,7 +13,11 @@ I'm a passionate developer focused on building intelligent and user-friendly app
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashhh_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vakkalanka-sai-shashank) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Saishashank) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shashhh_10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saishashank1006@gmail.com) 
 
-<img width="845" height="276" alt="image" src="https://github.com/user-attachments/assets/48c1a3d2-111e-4b21-9ec7-9cc0dba33aa9" />
+<p align="center">
+  <a href="https://github.com/SaiShashank-10">
+    <img src="https://github-contributions.vercel.app/api/v1/SaiShashank-10" alt="Sai Shashank's GitHub Contributions Chart" />
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
