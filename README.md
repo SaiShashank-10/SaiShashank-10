@@ -15,7 +15,7 @@ I'm a passionate developer focused on building intelligent and user-friendly app
 
 <p align="center">
   <a href="https://github.com/SaiShashank-10">
-    <img src="https://github-contributions.vercel.app/api/v1/SaiShashank-10" alt="Sai Shashank's GitHub Contributions Chart" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiShashank-10&theme=github-dark&hide_border=true&area=true" alt="Sai Shashank's GitHub Contribution Graph" />
   </a>
 </p>
 
